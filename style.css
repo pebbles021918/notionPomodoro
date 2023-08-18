@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background-color: darkgrey;
+  background-color: transparent;
   color: white;
 }
 
@@ -37,7 +37,7 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: transparent; 
+  background-color: darkgrey; 
   width: 350px;
   border-radius: 20px;
   padding: 30px;
